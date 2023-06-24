@@ -1,6 +1,10 @@
 # Documentação do Projeto
 
-Este documento fornece as instruções necessárias para instalar, executar e usar o projeto de controle de Pokémons.
+Este projeto foi desenvolvido utilizando a biblioteca React, que é uma das principais ferramentas para a construção de interfaces de usuário interativas e reativas. O React permite criar componentes reutilizáveis e oferece uma forma eficiente de gerenciar o estado da aplicação.
+
+Aqui estão as informações necessárias para instalar as dependências e executar o projeto localmente ou através do Docker.
+
+Continue a documentação com as instruções de instalação e execução do projeto.
 
 ## Pré-requisitos
 
