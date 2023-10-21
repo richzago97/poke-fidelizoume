@@ -6,14 +6,6 @@ Aqui estão as informações necessárias para instalar as dependências e execu
 
 Continue a documentação com as instruções de instalação e execução do projeto.
 
-## Pré-requisitos
-
-Antes de prosseguir, verifique se o seguinte software está instalado em seu sistema:
-
-- [Node.js](https://nodejs.org) (versão 12 ou superior)
-- [Yarn](https://yarnpkg.com) (opcional, mas recomendado para instalação de dependências)
-
-Certifique-se de ter acesso à Internet para baixar as dependências do projeto.
 
 ## Instalação
 
